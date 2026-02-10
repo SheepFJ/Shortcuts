@@ -1,6 +1,6 @@
-# 🚀 iOS 快捷指令集 (Shortcuts)
+# 🚀 iOS 快捷指令集
 
-欢迎尝试我的快捷指令仓库！本仓库的快捷指令采用 **“数据输入 → 网站展示”** 的高效工作模式。
+欢迎尝试我的快捷指令仓库！本仓库的快捷指令采用 **“输入关键数据 → 网站展示”** 的一种工作模式。
 
 ---
 
@@ -28,7 +28,7 @@
   <tr>
     <td width="70%">
       <h3>3. <a href="https://www.icloud.com/shortcuts/e7382ad6740e4d54b351a72cc0fed7ec">音乐播放器</a></h3>
-      <p><b>简介</b>：基于酷狗音乐接口，输入歌曲或歌手名，直接跳转网页端丝滑播放。</p>
+      <p><b>简介</b>：基于酷狗音乐接口，输入歌曲/歌手名，直接跳转网页端播放。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E6%95%88%E6%9E%9C.png" width="120">
