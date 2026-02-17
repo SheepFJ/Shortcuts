@@ -19,7 +19,7 @@
   <tr>
     <td width="70%">
       <h3>2. <a href="https://www.icloud.com/shortcuts/ea84365c938b4e33afa1681242cc9718">短视频解析</a></h3>
-      <p><b>简介</b>：支持抖音、B站等主流平台去水印解析。<i>（如遇失效，请通过下方群聊反馈）</i></p>
+      <p><b>简介</b>：支持抖音、B站等主流平台视频解析下载。<i>（如遇失效，请通过下方群聊反馈）</i></p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E6%95%88%E6%9E%9C.png" width="120">
