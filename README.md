@@ -34,6 +34,15 @@
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E6%95%88%E6%9E%9C.png" width="120">
     </td>
   </tr>
+  <tr>
+    <td width="70%">
+      <h3>3. <a href="https://www.icloud.com/shortcuts/a8af606cbfdd4ccfaede3c71e62fd596">思维导图</a></h3>
+      <p><b>简介</b>：发送主题或者文章，AI格式化数据生成思维导图。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E6%95%88%E6%9E%9C.png" width="120">
+    </td>
+  </tr>
 </table>
 
 ---
