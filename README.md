@@ -40,11 +40,21 @@
       <p><b>简介</b>：发送主题或者文章，AI格式化数据生成思维导图。</p>
     </td>
     <td width="30%" align="center">
-      <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E6%95%88%E6%9E%9C" width="120">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <h3>4. <a href="https://www.icloud.com/shortcuts/a8af606cbfdd4ccfaede3c71e62fd596">AI助手</a></h3>
+      <p><b>简介</b>快速回答你问题问题的ai，突然的想法就问问它吧。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/AI%E5%8A%A9%E6%89%8B%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
     </td>
   </tr>
 </table>
 
+https://www.icloud.com/shortcuts/01221d4746fe476eaf8cdfe0d43da69c
 ---
 
 ## 💖 感谢名单
