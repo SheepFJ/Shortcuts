@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>4. <a href="https://www.icloud.com/shortcuts/a8af606cbfdd4ccfaede3c71e62fd596">思维导图</a></h3>
+      <h3>4. <a href="https://www.icloud.com/shortcuts/37b4b2efa52e4405a01da6c44bcb7177">思维导图</a></h3>
       <p><b>简介</b>：发送主题或者文章，AI格式化数据生成思维导图。</p>
     </td>
     <td width="30%" align="center">
