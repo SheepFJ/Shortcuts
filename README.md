@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>5. <a href="https://www.icloud.com/shortcuts/a8af606cbfdd4ccfaede3c71e62fd596">AI助手</a></h3>
+      <h3>5. <a href="https://www.icloud.com/shortcuts/28027372d7744f3e9c8334e1172bba55">AI助手</a></h3>
       <p><b>简介</b>快速回答你问题问题的ai，突然的想法就问问它吧。</p>
     </td>
     <td width="30%" align="center">
