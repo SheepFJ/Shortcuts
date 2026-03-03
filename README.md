@@ -10,7 +10,7 @@
   <tr>
     <td width="70%">
       <h3>1. <a href="https://www.icloud.com/shortcuts/9bce53ce341641c1a8c24930d13e0221">影视Play</a></h3>
-      <p><b>简介</b>：输入影视名称，从全网开放接口中一键搜索汇总，告别找片烦恼。</p>
+      <p><b>简介：</b>输入影视名称，从全网开放接口中一键搜索汇总，告别找片烦恼。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E5%BD%B1%E8%A7%86Play%E6%95%88%E6%9E%9C.png" width="120">
@@ -19,7 +19,7 @@
   <tr>
     <td width="70%">
       <h3>2. <a href="https://www.icloud.com/shortcuts/ea84365c938b4e33afa1681242cc9718">短视频解析</a></h3>
-      <p><b>简介</b>：支持抖音、B站等主流平台视频解析下载。<i>（如遇失效，请通过下方群聊反馈）</i></p>
+      <p><b>简介：</b>支持抖音、B站等主流平台视频解析下载。<i>（如遇失效，请通过下方群聊反馈）</i></p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E6%95%88%E6%9E%9C.png" width="120">
@@ -28,7 +28,7 @@
   <tr>
     <td width="70%">
       <h3>3. <a href="https://www.icloud.com/shortcuts/e7382ad6740e4d54b351a72cc0fed7ec">音乐播放器</a></h3>
-      <p><b>简介</b>：基于酷狗音乐接口，输入歌曲/歌手名，直接跳转网页端播放。</p>
+      <p><b>简介：</b>基于酷狗音乐接口，输入歌曲/歌手名，直接跳转网页端播放。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/raw/main/Shortcuts/Effect/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E6%95%88%E6%9E%9C.png" width="120">
@@ -37,7 +37,7 @@
   <tr>
     <td width="70%">
       <h3>4. <a href="https://www.icloud.com/shortcuts/37b4b2efa52e4405a01da6c44bcb7177">思维导图</a></h3>
-      <p><b>简介</b>：发送主题或者文章，AI格式化数据生成思维导图。</p>
+      <p><b>简介：</b>发送主题或者文章，AI格式化数据生成思维导图。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
@@ -46,7 +46,7 @@
   <tr>
     <td width="70%">
       <h3>5. <a href="https://www.icloud.com/shortcuts/28027372d7744f3e9c8334e1172bba55">AI助手</a></h3>
-      <p><b>简介</b>快速回答你问题问题的ai，突然的想法就问问它吧。</p>
+      <p><b>简介：</b>快速回答你问题问题的ai，突然的想法就问问它吧。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/AI%E5%8A%A9%E6%89%8B%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
@@ -55,7 +55,7 @@
   <tr>
     <td width="70%">
       <h3>6. <a href="https://www.icloud.com/shortcuts/381725ef703843a2b8405246a27fd55e">热点新闻</a></h3>
-      <p><b>简介</b>多平台的热搜排行。</p>
+      <p><b>简介：</b>多平台的热搜排行。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%90%9C%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
