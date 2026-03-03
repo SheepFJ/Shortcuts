@@ -52,6 +52,15 @@
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/AI%E5%8A%A9%E6%89%8B%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
     </td>
   </tr>
+  <tr>
+    <td width="70%">
+      <h3>6. <a href="https://www.icloud.com/shortcuts/381725ef703843a2b8405246a27fd55e">热点新闻</a></h3>
+      <p><b>简介</b>多平台的热搜排行。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%90%9C%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
+    </td>
+  </tr>
 </table>
 
 ---
