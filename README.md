@@ -54,7 +54,6 @@
   </tr>
 </table>
 
-https://www.icloud.com/shortcuts/01221d4746fe476eaf8cdfe0d43da69c
 ---
 
 ## 💖 感谢名单
