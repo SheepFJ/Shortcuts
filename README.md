@@ -61,6 +61,15 @@
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%90%9C%E6%95%88%E6%9E%9C%E5%9B%BE.PNG" width="120">
     </td>
   </tr>
+  <tr>
+    <td width="70%">
+      <h3>6. <a href="https://www.icloud.com/shortcuts/bbd4a48c48e6486c912d7b07fc57c604">身份证信息解析</a></h3>
+      <p><b>简介：</b>通过身份证计算基本信息。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%90%9C%E6%95%88%E6%9E%9C%E5%9B%BE" width="120">
+    </td>
+  </tr>
 </table>
 
 ---
