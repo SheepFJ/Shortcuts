@@ -67,7 +67,16 @@
       <p><b>简介：</b>通过身份证计算基本信息。</p>
     </td>
     <td width="30%" align="center">
-      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E4%BB%8A%E6%97%A5%E7%83%AD%E6%90%9C%E6%95%88%E6%9E%9C%E5%9B%BE" width="120">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BF%A1%E6%81%AF%E8%A7%A3%E6%9E%90.JPG" width="120">
+    </td>
+  </tr>
+   <tr>
+    <td width="70%">
+      <h3>7. <a href="https://www.icloud.com/shortcuts/948653e81f314668842f31a73ca28b97">绘画AI</a></h3>
+      <p><b>简介：</b>输入描述词，AI进行绘画。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E7%BB%98%E7%94%BBAI.PNG" width="120">
     </td>
   </tr>
 </table>
