@@ -72,7 +72,7 @@
   </tr>
    <tr>
     <td width="70%">
-      <h3>7. <a href="https://www.icloud.com/shortcuts/948653e81f314668842f31a73ca28b97">绘画AI</a></h3>
+      <h3>8. <a href="https://www.icloud.com/shortcuts/948653e81f314668842f31a73ca28b97">绘画AI</a></h3>
       <p><b>简介：</b>输入描述词，AI进行绘画。</p>
     </td>
     <td width="30%" align="center">
