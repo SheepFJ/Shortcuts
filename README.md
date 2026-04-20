@@ -79,6 +79,15 @@
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E7%BB%98%E7%94%BBAI.PNG" width="120">
     </td>
   </tr>
+     <tr>
+    <td width="70%">
+      <h3>8. <a href="https://www.icloud.com/shortcuts/3c28e3e14cb046a0959846e9c77bcbf2">双语翻译</a></h3>
+      <p><b>简介：</b>输入描述词，AI进行翻译，同时支持点词翻译功能。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E5%8F%8C%E8%AF%AD%E7%BF%BB%E8%AF%91%E6%95%88%E6%9E%9C%E5%9B%BE.png" width="120">
+    </td>
+  </tr>
 </table>
 
 ---
