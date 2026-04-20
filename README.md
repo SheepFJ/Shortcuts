@@ -81,7 +81,7 @@
   </tr>
      <tr>
     <td width="70%">
-      <h3>8. <a href="https://www.icloud.com/shortcuts/3c28e3e14cb046a0959846e9c77bcbf2">双语翻译</a></h3>
+      <h3>9. <a href="https://www.icloud.com/shortcuts/3c28e3e14cb046a0959846e9c77bcbf2">双语翻译</a></h3>
       <p><b>简介：</b>输入描述词，AI进行翻译，同时支持点词翻译功能。</p>
     </td>
     <td width="30%" align="center">
