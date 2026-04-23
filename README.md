@@ -79,13 +79,22 @@
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E7%BB%98%E7%94%BBAI.PNG" width="120">
     </td>
   </tr>
-     <tr>
+  <tr>
     <td width="70%">
       <h3>9. <a href="https://www.icloud.com/shortcuts/3c28e3e14cb046a0959846e9c77bcbf2">双语翻译</a></h3>
       <p><b>简介：</b>输入描述词，AI进行翻译，同时支持点词翻译功能。</p>
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E5%8F%8C%E8%AF%AD%E7%BF%BB%E8%AF%91%E6%95%88%E6%9E%9C%E5%9B%BE.png" width="120">
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <h3>10. <a href="https://www.icloud.com/shortcuts/f1ccdc685cac483e922103122600d850">新华字典</a></h3>
+      <p><b>简介：</b>输入1-4个中文字，获取该词的笔画以及注释内容。</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/SheepFJ/Shortcuts/blob/main/Shortcuts/Effect/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8.png" width="120">
     </td>
   </tr>
 </table>
