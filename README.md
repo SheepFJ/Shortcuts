@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="70%">
-      <h3>1. <a href="https://www.icloud.com/shortcuts/537e39cab26641ffb8fc38ef3d53883f">影视Play</a></h3>
+      <h3>1. <a href="https://www.icloud.com/shortcuts/5c68bbfee9944c85a7cee1dfd741dec8">影视Play</a></h3>
       <p><b>简介：</b>输入影视名称，从全网开放接口中一键搜索汇总，告别找片烦恼。</p>
     </td>
     <td width="30%" align="center">
@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>2. <a href="https://www.icloud.com/shortcuts/7c50cccb79eb464b80ce70d309ac2276">短视频解析</a></h3>
+      <h3>2. <a href="https://www.icloud.com/shortcuts/5fbf88e3160141caa460893efa45df30">短视频解析</a></h3>
       <p><b>简介：</b>支持抖音、B站等主流平台视频解析下载。<i>（如遇失效，请通过下方群聊反馈）</i></p>
     </td>
     <td width="30%" align="center">
@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>3. <a href="https://www.icloud.com/shortcuts/3ec0943313594716aaa292001f97ddf2">音乐播放器</a></h3>
+      <h3>3. <a href="https://www.icloud.com/shortcuts/de3f3972c0474c639c2c0cda7fcb2aa4">音乐播放器</a></h3>
       <p><b>简介：</b>基于酷狗音乐接口，输入歌曲/歌手名，直接跳转网页端播放。</p>
     </td>
     <td width="30%" align="center">
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>4. <a href="https://www.icloud.com/shortcuts/352b354a3cfb47ceac65fecefb9f1959">思维导图</a></h3>
+      <h3>4. <a href="https://www.icloud.com/shortcuts/595a6583d8194d82a152b024c95e5cb5">思维导图</a></h3>
       <p><b>简介：</b>发送主题或者文章，AI格式化数据生成思维导图。</p>
     </td>
     <td width="30%" align="center">
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>5. <a href="https://www.icloud.com/shortcuts/1f2190e63dda4595ad2ae6fa0ceb862d">AI助手</a></h3>
+      <h3>5. <a href="https://www.icloud.com/shortcuts/de263dce653242f8bf6cd59af47d41de">AI助手</a></h3>
       <p><b>简介：</b>快速回答你问题问题的ai，突然的想法就问问它吧。</p>
     </td>
     <td width="30%" align="center">
@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>6. <a href="https://www.icloud.com/shortcuts/a5f0dd803ac946b8a7a8f1c0fd280386">热点新闻</a></h3>
+      <h3>6. <a href="https://www.icloud.com/shortcuts/61da3325a949448f9ca86109eb21eeb6">热点新闻</a></h3>
       <p><b>简介：</b>多平台的热搜排行。</p>
     </td>
     <td width="30%" align="center">
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>7. <a href="https://www.icloud.com/shortcuts/0c97d05e49a14fceaa036ecfc3c97d77">身份证信息解析</a></h3>
+      <h3>7. <a href="https://www.icloud.com/shortcuts/198dc2e8898f45c6843d5dde5f4b1df3">身份证信息解析</a></h3>
       <p><b>简介：</b>通过身份证计算基本信息。</p>
     </td>
     <td width="30%" align="center">
@@ -72,7 +72,7 @@
   </tr>
    <tr>
     <td width="70%">
-      <h3>8. <a href="https://www.icloud.com/shortcuts/2b036555af5a424eabc18be9acc89660">绘画AI</a></h3>
+      <h3>8. <a href="https://www.icloud.com/shortcuts/dbd0fe271076497d820b3ac84d283de5">绘画AI</a></h3>
       <p><b>简介：</b>输入描述词，AI进行绘画。</p>
     </td>
     <td width="30%" align="center">
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>9. <a href="https://www.icloud.com/shortcuts/a4fc2dd0be0846e3baa01d963a0e75c5">双语翻译</a></h3>
+      <h3>9. <a href="https://www.icloud.com/shortcuts/fc88300feaf243ee8b68fbff6fa7cb5e">双语翻译</a></h3>
       <p><b>简介：</b>输入描述词，AI进行翻译，同时支持点词翻译功能。</p>
     </td>
     <td width="30%" align="center">
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>10. <a href="https://www.icloud.com/shortcuts/a59a41bdda4141628d01b38257757e6c">新华字典</a></h3>
+      <h3>10. <a href="https://www.icloud.com/shortcuts/3a926d2912f2487db11734fcd68606d6">新华字典</a></h3>
       <p><b>简介：</b>输入1-4个中文字，获取该词的笔画以及注释内容。</p>
     </td>
     <td width="30%" align="center">
